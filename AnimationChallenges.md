@@ -10,7 +10,7 @@ Click the links below to scroll to one of the options on this page.
 - [Option 3: Updating the Existing Game Code](#option-3-updating-the-existing-game-code)
 
 ## Option 1: A Totally New Sprite
-Go to [Piskel](https://www.piskelapp.com/p/create) and work on creating a new sprite of any kind. This could be a character, an enemy, a background element, or a completely abstract work of art! Try to add multiple frames to make it into an animation.
+Go to [Piskel](https://www.piskelapp.com/) and work on creating a new sprite of any kind. This could be a character, an enemy, a background element, or a completely abstract work of art! Try to add multiple frames to make it into an animation.
 
 This challenge can be completed in Piskel without doing anything with the existing game.
 
@@ -18,10 +18,10 @@ This challenge can be completed in Piskel without doing anything with the existi
 Similar to how the player was replaced with a new Piskel animation, replace some of the other game assets.
 
 #### Tips
-If you are running into any issues, make sure you are abiding by these rules:
+If you are running into any issues, make sure to abide by these rules:
 
-- Do not change the size of the canvas for one of the existing Piskel projects
-- Do not change the number of frames for an existing Piskel
+- Do not change the size of the canvas for one of the existing Piskel sprites
+- Do not change the number of frames for an existing sprite
 - Export each Piskel as a PNG
 - Export with the appropriate number of columns in the spritesheet
   - The number of columns should be the same as the number of frames

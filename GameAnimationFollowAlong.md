@@ -52,6 +52,7 @@ Now, the next step is to update the player sprite a little bit.
    - Do not change the number of frames
    - Do not change the size of the canvas
    - Do not change the basic "Walk Cycle" frames
+   - Make sure to change each frame of the animation 
 1. Click the "Export" button on the right side of the window  
    ![](https://i.imgur.com/8pW6Lrg.png)
 1. Make sure "Scale" is set to **1.0x**
