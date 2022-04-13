@@ -1,11 +1,11 @@
-# Building Blocks of Animation
-This session allows students to create some animations of their own. The workshop uses [Piskel](https://www.piskelapp.com) as a tool for creating pixel art, and a [JavaScript Game](https://replit.com/@HylandOutreach/Platformer) where the art can be used. The game is a modified version of the game from [this tutorial](https://mozdevs.github.io/html5-games-workshop/).
+# Animation for Games
+This camp allows students to create some animations of their own. It uses [Piskel](https://www.piskelapp.com) as a tool for creating pixel art, and a [JavaScript Game](https://replit.com/@HylandOutreach/Platformer) where the art can be used. The game is a modified version of the game from [this tutorial](https://mozdevs.github.io/html5-games-workshop/).
 
 ## Icebreaker
 Students create pictures using Microsoft Paint, and present their pictures to the class. When presenting the pictures, they can also say their name, grade, and school.
 
 ## Lecture: History of Animation / 2D Video Game Animation
-There are slides in the [Building Blocks of Animation presentation](BuildingBlocksOfAnimation.pptx) that introduce the roots of animation and 2D game graphics. The presentation covers:
+There are slides in the [Animation for Games presentation](AnimationForGames.pptx) that introduce the roots of animation and 2D game graphics. The presentation covers:
 - Beginnings (Zoetrope, Praxinoscope, First animated film)
 - Disney (Many revolutionary techniques)
 - Video game origins
