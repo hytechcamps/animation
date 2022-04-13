@@ -1,6 +1,3 @@
-# Building Blocks of Animation Hy-Tech Camp
-Welcome to the Building Blocks of Animation Hy-Tech Camp!
-
-- [Piskel Exercise](PiskelExercise.md)
-- [Snap! Demo](SnapDemo.md)
-- [Snap! Exercise](SnapExercise.md)
+- [Piskel Demo](PiskelDemo.md)
+- [Game Animation Follow-Along](GameAnimationFollowAlong.md)
+- [Animation Challenges](AnimationChallenges.md)
