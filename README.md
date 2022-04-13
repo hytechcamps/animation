@@ -1,5 +1,5 @@
 # Building Blocks of Animation
-This camp covers the history of animation in general, then touches on the origins of 2D game graphics and allows students to create some animations of their own. The camp uses [Piskel](https://www.piskelapp.com) as a tool for creating pixel art, and [Snap](https://snap.berkeley.edu/), a block-based programming language, as a tool for creating a simple 2D platformer. The content flows through the [Building Blocks of Animation presentation](BuildingBlocksOfAnimation.pptx).
+This session allows students to create some animations of their own. The workshop uses [Piskel](https://www.piskelapp.com) as a tool for creating pixel art, and a [JavaScript Game](https://replit.com/@HylandOutreach/Platformer) where the art can be used. The game is a modified version of the game from [this tutorial](https://mozdevs.github.io/html5-games-workshop/).
 
 ## Icebreaker
 Students create pictures using Microsoft Paint, and present their pictures to the class. When presenting the pictures, they can also say their name, grade, and school.
@@ -16,34 +16,26 @@ There are slides in the [Building Blocks of Animation presentation](BuildingBloc
 ## Kahoot
 A quiz covering the content from the lecture. There is a link in the slides that points here: https://create.kahoot.it/share/building-blocks-of-animation-quiz/53acd5a6-e3f2-4aca-972d-55f5f4bd8cc4
 
-## Piskel
-Demonstrate the use of [Piskel](https://www.piskelapp.com) to create pixel art sprites/animations. Show some of the different tools in Piskel, including:
+## Piskel Demo
+Demonstrate the use of Piskel by walking through the [Piskel Demo](PiskelDemo.md). After the guided portion, give the students some time to create things on their own.
 
-- Pen
-- Vertical Mirror pen
-- Paint bucket tool
-- Stroke tool
-- Rectangle tool
-- Circle tool
-- Move tool
-- Color picker
-- Multiple frames
-- Resize drawing area
-- Import existing
-- Export as Zip
+## Game Animation Follow-Along
+Walk through the [Game Animation Follow-Along](GameAnimationFollowAlong.md) as a group. Make sure each student is able to modify the player sprite and place their version in the game. They should not spend too long working on modifications - they can always come back to that and make more changes.
 
-Additionally, show some examples:
-- Mega Man: https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgICAyJ2kCQw/edit
-- Rainbow pattern: https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgICA_eOjCgw/edit
+## Animation Challenges
+After the follow-along activity, students should have a chance to work on the [challenges](AnimationChallenges.md). There are a few options:
 
-### Piskel Exercise
-Students will follow the instructions in the [Piskel Exercise](PiskelExercise.md) file to create some animations of their own. Students can import `.piskel` files by right-clicking the links in the guide and choosing to save the files. They should import the existing sprites and update them. After that, they can create any pixel art animation of their choosing.
+- Working in Piskel to make something brand new
+- Modifying existing sprites and placing them into the game
+- Updating the game code to change gameplay
 
-## Snap
-Introduce [Snap](https://snap.berkeley.edu/) by following the instructions in the [Snap Demo](SnapDemo.md) file. This should give students a basis for understanding Snap.
+Students should be able to hop around and attempt whichever challenges they would like.
 
-### Snap Exercise
-Students will follow the instructions in the [Snap Exercise](SnapExercise.md) file to update an existing game with their own art. There are additional challenges in the instructions as well.
+## Sharing Art
+Toward the end of the session, students should be able to share what they have created. This could be just Piskel sprites, or full game modifications.
+
+- Students can submit via this Google Form: https://forms.gle/5iZtrGAszThGcZL79
+- Responses are here: https://docs.google.com/spreadsheets/d/1ISB29lgkW1ffo6MzceLtuC5YqUY1pRCoVrRGnYVNGCI/edit?usp=sharing
 
 ## Schedule
 
@@ -53,7 +45,7 @@ Students will follow the instructions in the [Snap Exercise](SnapExercise.md) fi
 | Lecture | 20m |
 | Kahoot | 5m |
 | Piskel demo | 10m |
-| Piskel individual work | 25m |
 | Break | 10m |
-| Snap demo | 20m |
-| Snap exercise | 45m |
+| Game Animation Follow-Along | 30m |
+| Animation Challenges | 20m |
+| Sharing Art | 10m |
