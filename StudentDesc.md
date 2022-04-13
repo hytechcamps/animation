@@ -1,8 +1,8 @@
-# Building Blocks of Animation Hy-Tech Camp
-Welcome to the Building Blocks of Animation Hy-Tech Camp!
+# Animation for Games Hy-Tech Camp
+Welcome to the Animation for Games Hy-Tech Camp!
 
 ## History of Animation / 2D Game Animation PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/animation/BuildingBlocksOfAnimation.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/animation/AnimationForGames.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Piskel Demo
 Check out [this page](PiskelDemo.md) to see some of what is possible in [Piskel](https://www.piskelapp.com)!
