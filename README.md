@@ -1,6 +1,9 @@
 # Animation for Games
 This camp allows students to create some animations of their own. It uses [Piskel](https://www.piskelapp.com) as a tool for creating pixel art, and a [JavaScript Game](https://replit.com/@HylandOutreach/Platformer) where the art can be used. The game is a modified version of the game from [this tutorial](https://mozdevs.github.io/html5-games-workshop/).
 
+### Camp Description
+If you’re interested in creating digital art that can be used in video games, then this camp is for you! Students will learn about the history of animation, its relationship to programming, and the basics of 2D computer animation with pixel art. They will then apply that knowledge by creating art for a simple platformer game in JavaScript.
+
 ## Icebreaker
 Students create pictures using Microsoft Paint, and present their pictures to the class. When presenting the pictures, they can also say their name, grade, and school.
 
