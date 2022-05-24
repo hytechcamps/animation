@@ -4,13 +4,15 @@ Artists often create pixel art animations to be used in retro-style games. Follo
 ## The Existing Game
 For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.
 
-Hyland Student credentials:
+### Hyland Student credentials:
 - Username: **hylandstudent**
 - Password: **CodingIsFun1!**
 
-1. Create a Repl account (or use credentials above) and log in
+### Instructions
 1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/Platformer)
 1. Click the "Fork" button in the upper right
+1. Log into Replit using the credentials above
+   - _Note: It may be necessary to click the "Fork" button again_
 1. Click the "Run" button to run the game
 1. Expand the Preview area so there is room to play the game
 
