@@ -17,7 +17,7 @@ There are slides in the [Animation for Games presentation](AnimationForGames.ppt
 - Walk cycles
 
 ## Kahoot
-A quiz covering the content from the lecture. There is a link in the slides that points here: https://create.kahoot.it/share/building-blocks-of-animation-quiz/53acd5a6-e3f2-4aca-972d-55f5f4bd8cc4
+A quiz covering the content from the lecture. Run it from [here](https://create.kahoot.it/share/building-blocks-of-animation-quiz/53acd5a6-e3f2-4aca-972d-55f5f4bd8cc4).
 
 ## Piskel Demo
 Demonstrate the use of Piskel by walking through the [Piskel Demo](PiskelDemo.md). After the guided portion, give the students some time to create things on their own.
