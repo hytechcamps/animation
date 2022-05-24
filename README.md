@@ -37,8 +37,8 @@ Students should be able to hop around and attempt whichever challenges they woul
 ## Sharing Art
 Toward the end of the session, students should be able to share what they have created. This could be just Piskel sprites, or full game modifications.
 
-- Students can submit via this Google Form: https://forms.gle/5iZtrGAszThGcZL79
-- Responses are here: https://docs.google.com/spreadsheets/d/1ISB29lgkW1ffo6MzceLtuC5YqUY1pRCoVrRGnYVNGCI/edit?usp=sharing
+- Students can submit via this [Google Form](https://forms.gle/5iZtrGAszThGcZL79)
+- Responses are [here](https://docs.google.com/spreadsheets/d/1e5H-Zyl8yPrZ1bwpig63lj7-j8sDnSK10walWrbBdtw/edit?usp=sharing)
 
 ## Schedule
 
