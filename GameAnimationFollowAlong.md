@@ -6,7 +6,7 @@ For the purposes of this exercise, there is an existing game within a Repl proje
 
 ### Hyland Student credentials:
 - Username: **hylandstudent**
-- Password: **CodingIsFun1!**
+- Password: **Learn2Code!**
 
 ### Instructions
 1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/Platformer)
