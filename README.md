@@ -25,6 +25,8 @@ Demonstrate the use of Piskel by walking through the [Piskel Demo](PiskelDemo.md
 ## Game Animation Follow-Along
 Walk through the [Game Animation Follow-Along](GameAnimationFollowAlong.md) as a group. Make sure each student is able to modify the player sprite and place their version in the game. They should not spend too long working on modifications - they can always come back to that and make more changes.
 
+>Note: The Replit credentials listed should work, but if they do not, there is a **hylandstudent2** account with the same password (**Learn2Code!**) that should also work.
+
 ## Animation Challenges
 After the follow-along activity, students should have a chance to work on the [challenges](AnimationChallenges.md). There are a few options:
 
