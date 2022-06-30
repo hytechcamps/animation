@@ -4,6 +4,9 @@ This camp allows students to create some animations of their own. It uses [Piske
 ### Camp Description
 If you’re interested in creating digital art that can be used in video games, then this camp is for you! Students will learn about the history of animation, its relationship to programming, and the basics of 2D computer animation with pixel art. They will then apply that knowledge by creating art for a simple platformer game in JavaScript.
 
+### Videos
+There are videos for the camp available [here](https://app.sharebase.com/#/folder/1614826/share/3-tZKjBzkcvtFctXMxhUL--UeuUYaY).
+
 ## Icebreaker
 Students create pictures using Microsoft Paint, and present their pictures to the class. When presenting the pictures, they can also say their name, grade, and school.
 
